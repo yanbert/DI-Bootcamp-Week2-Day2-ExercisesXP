@@ -11,6 +11,12 @@ let rice = "diner";
  myWatchedSeriesLength = myWatchedSeries.length;
  console.log(myWatchedSeriesLength);
  //2-Create a variable named myWatchedSeriesSentence, that is equal to a sentence describing the series
+
+/**********************************************************
+Correcteur: Yannick GOUGUIA
+Mauvaise reponse, Revoir l'exercice
+
+*********************************************************/
  let myWatchedSeriesSentence = ["black mirror", "money heist", "and the big bang theory"];
  myWatchedSeriesSentence = myWatchedSeries[0], + "" + myWatchedSeries[1] + "" +myWatchedSeries[2];
  console.log("I looked", + " " + myWatchedSeries +  "" + " and the big bang theory" + ""+myWatchedSeriesSentence);

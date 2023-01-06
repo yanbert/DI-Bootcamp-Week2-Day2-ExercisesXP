@@ -1,3 +1,10 @@
+/**
+Correcteur: Yannick GOUGUIA
+
+Tu as mis les exercices du jour 1 dans le depot du jour 2
+merci de bien organiser ton depot
+*/
+
 /*Exercises1*/
 let favoritefood = "placali";
 let rice = "diner";
